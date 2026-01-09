@@ -78,7 +78,8 @@
 ### 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedanttupe005&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedanttupe005&show_icons=true&theme=dark&hide_border=true" />
+
 </p>
 
 <p align="center">
